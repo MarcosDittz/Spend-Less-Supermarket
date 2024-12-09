@@ -158,7 +158,7 @@ nav ul li a:hover {
         height: auto;
         margin-right: 10px; 
     }
-    /* Media Queries */ ]
+    /* Media Queries */ 
     @media (max-width: 1200px) { 
         nav ul li { 
             margin-right: 10px; 
@@ -204,3 +204,4 @@ nav ul li a:hover {
                 width: 150px; 
             } 
         }
+
